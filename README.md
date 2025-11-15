@@ -20,7 +20,7 @@ Bash, Powershell, Python, Linux, Windows, Html, Виртуализация, Sql,
 <strong>Формат работы:</strong><br>
 офис, удалённо;<br>
 <strong>Скачать резюме:</strong><br>
-https://github.com/it38dato;
+https://github.com/it38dato/it38dato;
 </p>
 
 # Образование и опыт работы
@@ -41,18 +41,18 @@ https://github.com/it38dato;
 # Дополнительная информация
 
 <p>
-    <strong>2019-11-01 - 2021-05-30,</strong> Easy School, Иркутск,&nbsp;<strong>Специализация:</strong> English Level Elementary A (Дополнительное образование), Прогресс: Защитил сертификат "English Level Elementary A", <strong>Инструменты: </strong>English.
+    <strong>2019-11-01 - 2021-05-30,</strong> Easy School, Иркутск,<strong>Специализация:</strong> English Level Elementary A (Дополнительное образование), <strong>Прогресс:</strong> Защитил сертификат "English Level Elementary A", <strong>Инструменты: </strong>English.
 </p>
 <p>
-    <strong>2022-05-01 - 2022-11-01,</strong> Yandex, Город: Дистанционное обучение, <strong>Специализация:&nbsp;</strong> Инженер облачных сервисов (Дополнительное образование), Прогресс: Для защиты сертификата "Инженер облачных сервисов" подключил облачный виртуальный сервер, разработал сайт, разработал "Бот-переводчик" в Телеграме и подключил домен dato138it.ru,&nbsp;<strong>Инструменты: </strong>Yandex Cloud, Timeweb Cloud, Linux, Bash, Sql, Python, Django Rest Framework, Html, Telebot, English, Git;
+    <strong>2022-05-01 - 2022-11-01,</strong> Yandex, Город: Дистанционное обучение, <strong>Специализация:</strong> Инженер облачных сервисов (Дополнительное образование), <strong>Прогресс:</strong> Для защиты сертификата "Инженер облачных сервисов" подключил облачный виртуальный сервер, разработал сайт, разработал "Бот-переводчик" в Телеграме и подключил домен dato138it.ru,<strong>Инструменты: </strong>Yandex Cloud, Timeweb Cloud, Linux, Bash, Sql, Python, Django Rest Framework, Html, Telebot, English, Git;
 </p>
 <p>
-    <strong>2022-11-01 - 2023-05-30,</strong> Сбер Университет, Дистанционное обучение, <strong>Специализация:</strong> Инженер с большими данными (Дополнительное образование),&nbsp;Прогресс: Для защиты проекта по теме "Разработка хранилища данных банка с выявлением случаев мошенничества" разработал корпоративное хранилища архивных данных из разных источников применительно к банковской деятельности, <strong>Инструменты:</strong> Bash, Sql, Python, Etl-процессы, Linux, Data Warehouse;
+    <strong>2022-11-01 - 2023-05-30,</strong> Сбер Университет, Дистанционное обучение, <strong>Специализация:</strong> Инженер с большими данными (Дополнительное образование),<strong>Прогресс:</strong> Для защиты проекта по теме "Разработка хранилища данных банка с выявлением случаев мошенничества" разработал корпоративное хранилища архивных данных из разных источников применительно к банковской деятельности, <strong>Инструменты:</strong> Bash, Sql, Python, Etl-процессы, Linux, Data Warehouse;
 </p>
 <p>
     <strong>Проекты:</strong><br>
-    Веб-приложение для публикации контентов http://dato138it.ru,<br>
-    Бот-переводчик в Телеграме @it38dato,<br>
-    Скрипты для обработки и сортировки данных https://github.com/it38dato,<br>
-    Скрипты для бэкап файлов https://github.com/it38dato,<br>
+    Веб-приложение http://dato138it.ru,<br>
+    Бот-переводчик в Телеграме @It38DatoBot,<br>
+    Скрипты для обработки и сортировки данных https://github.com/it38dato/DataSrnsParser, https://github.com/it38dato/AutomatizationDataSite,<br>
+    Скрипты для бэкап файлов https://github.com/it38dato/Backups,<br>
 </p>
