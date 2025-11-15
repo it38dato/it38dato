@@ -17,11 +17,6 @@ it38dato@yandex.ru (Почта),<br>
 разработка скриптов для автоматизации работы,<br>
 <strong>Инструменты:</strong><br>
 Bash, Powershell, Python, Linux, Windows, Html, Виртуализация, Sql, Selenium, Django Rest Framework, Ericsson, Nokia, Vba,<br>
-<strong>Проекты:</strong><br>
-Веб-приложение для публикации контентов http://dato138it.ru,<br>
-Бот-переводчик в Телеграме @it38dato,<br>
-Скрипты для обработки и сортировки данных https://github.com/it38dato,<br>
-Скрипты для бэкап файлов https://github.com/it38dato,<br>
 <strong>Формат работы:</strong><br>
 офис, удалённо;<br>
 <strong>Скачать резюме:</strong><br>
@@ -53,4 +48,11 @@ https://github.com/it38dato;
 </p>
 <p>
     <strong>2022-11-01 - 2023-05-30,</strong> Сбер Университет, Дистанционное обучение, <strong>Специализация:</strong> Инженер с большими данными (Дополнительное образование),&nbsp;Прогресс: Для защиты проекта по теме "Разработка хранилища данных банка с выявлением случаев мошенничества" разработал корпоративное хранилища архивных данных из разных источников применительно к банковской деятельности, <strong>Инструменты:</strong> Bash, Sql, Python, Etl-процессы, Linux, Data Warehouse;
+</p>
+<p>
+    <strong>Проекты:</strong><br>
+    Веб-приложение для публикации контентов http://dato138it.ru,<br>
+    Бот-переводчик в Телеграме @it38dato,<br>
+    Скрипты для обработки и сортировки данных https://github.com/it38dato,<br>
+    Скрипты для бэкап файлов https://github.com/it38dato,<br>
 </p>
