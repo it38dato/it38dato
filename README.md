@@ -51,8 +51,8 @@ https://github.com/it38dato/it38dato/blob/main/Software%20Engineer.pdf.
 </p>
 <p>
     <strong>Проекты:</strong><br>
-    Веб-приложение http://dato138it.ru,<br>
-    Бот-переводчик в Телеграме @It38DatoBot,<br>
-    Скрипты для обработки и сортировки данных https://github.com/it38dato/DataSrnsParser, https://github.com/it38dato/AutomatizationDataSite,<br>
-    Скрипты для бэкап файлов https://github.com/it38dato/Backups.<br>
+    Веб-сайты <br>https://it38dato.github.io/it38dato/ <br>http://dato138it.ru,<br>
+    Бот-переводчик в Телеграме <br>@It38DatoBot,<br>
+    Скрипты для обработки и сортировки данных <br>https://github.com/it38dato/DataSrnsParser, <br>https://github.com/it38dato/AutomatizationDataSite,<br>
+    Скрипты для бэкап файлов https://github.com/it38dato/Backups.
 </p>
