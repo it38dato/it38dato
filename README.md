@@ -20,7 +20,7 @@ Bash, Powershell, Python, Linux, Windows, Html, Виртуализация, Sql,
 <strong>Формат работы:</strong><br>
 офис, удалённо;<br>
 <strong>Скачать резюме:</strong><br>
-https://github.com/it38dato/it38dato;
+https://github.com/it38dato/it38dato/blob/main/Software%20Engineer.pdf.
 </p>
 
 # Образование и опыт работы
