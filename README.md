@@ -6,7 +6,7 @@
 * **Telegram:** @Daaaato (основной), @Daaaato (резервный)  
 * **GitHub:** [://github.com](https://://github.com)  
 * **Сайт-портфолио:** [it38dato.github.io/it38dato](https://it38dato.github.io/it38dato/)
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/david-gabuniia-58918b360)  
+* **LinkedIn:** [linkedin.com/in/david-gabuniia-58918b360](https://linkedin.com)
 
 **Желаемый формат работы:** Удаленная работа / Фриланс.  
 **Готовность к переезду:** Готов к релокации в другие города России или в Грузию.
