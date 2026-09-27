@@ -63,7 +63,7 @@ Backend-разработчик, специалист по базам данны�
 
 ## Проекты на GitHub
 
-* **Django Web Services** (`webDato38it`) — [://github.com/webDato38it ](https://://github.com/webDato38it)  
+* **Django Web Services** [github.com/it38dato/webDato38it](https://github.com/it38dato/webDato38it)
   *Стек:* Django, DRF, Docker, Nginx, PostgreSQL.  
   Разработка backend-части информационного портала, реализация REST API, контейнеризация приложения и настройка веб-сервера для production.
 * **Data Parsing & ETL-scripts** (`parsingDb`) — [://github.com/parsingDb](https://://github.com/parsingDb)  
