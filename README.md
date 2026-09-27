@@ -72,7 +72,7 @@ Backend-разработчик, специалист по базам данны�
 * **Telegram Bot** [github.com/it38dato/bots](https://github.com/it38dato/bots)
   *Стек:* Python, aiogram, requests, Telegram API, Docker.  
   Бот для перевода текста с валидацией пользовательских запросов, логированием процессов и стабильным запуском в Docker-контейнере.
-* **Backup Скрипты** [github.com/backupFiles/bots](https://github.com/it38dato/backupFiles)
+* **Backup Скрипты** [github.com/it38dato/backupFiles](https://github.com/it38dato/backupFiles)
   *Стек:* PowerShell, Bash.  
   Система автоматизации создания бэкапов конфигураций и баз данных по расписанию.
 
