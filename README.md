@@ -66,13 +66,13 @@ Backend-разработчик, специалист по базам данны�
 * **Django Web Services** [github.com/it38dato/webDato38it](https://github.com/it38dato/webDato38it)
   *Стек:* Django, DRF, Docker, Nginx, PostgreSQL.  
   Разработка backend-части информационного портала, реализация REST API, контейнеризация приложения и настройка веб-сервера для production.
-* **Data Parsing & ETL-scripts** (`parsingDb`) — [://github.com/parsingDb](https://://github.com/parsingDb)  
+* **Data Parsing & ETL-scripts** [github.com/it38dato/parsingDb](https://github.com/it38dato/parsingDb)
   *Стек:* Python, BeautifulSoup, Selenium, SQL, PostgreSQL/MySQL.  
   Скрипты для многопоточного сбора данных с внешних веб-ресурсов, их последующей очистки, трансформации и загрузки в реляционные базы данных.
-* **Telegram Bot** (`bots`) — [://github.com/bots](https://://github.com/bots)  
+* **Telegram Bot** [github.com/it38dato/bots](https://github.com/it38dato/bots)
   *Стек:* Python, aiogram, requests, Telegram API, Docker.  
   Бот для перевода текста с валидацией пользовательских запросов, логированием процессов и стабильным запуском в Docker-контейнере.
-* **Backup Скрипты** (`backupFiles`) — [://github.com/backupFiles](https://://github.com/backupFiles)  
+* **Backup Скрипты** [github.com/backupFiles/bots](https://github.com/it38dato/backupFiles)
   *Стек:* PowerShell, Bash.  
   Система автоматизации создания бэкапов конфигураций и баз данных по расписанию.
 
